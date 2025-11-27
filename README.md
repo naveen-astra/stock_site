@@ -45,4 +45,3 @@ stock_site/
 
 
 
-Specify your project license (e.g. MIT License).
